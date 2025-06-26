@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @VedantM06
+- 👋 Hi, I’m @VedantM0603
 - 👀 I’m interested in ... creating
 - 🌱 I’m currently learning ... many languages ;)
-- 📫 How to reach me ... for enqiries contact on vedantmahajan006@gmail.com
+- 📫 How to reach me ... for enqiries contact on mahajanvedant06@gmail.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... Humans share about 60% of their DNA with bananas!
+
 
 <!---
 Moon0603/Moon0603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
